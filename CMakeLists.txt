@@ -39,5 +39,5 @@ if( GLFW-CMAKE-STARTER-USE-GLFW-GLAD )
     set( GLAD_GL "${GLFW_SOURCE_DIR}/deps/glad/gl.h" )
 endif()
 
-add_executable(OpenGL ${SOURCE_FILES} ${HEADER_FILES} ${GLAD_GL} )
+add_executable(OpenGL ${SOURCE_FILES} ${HEADER_FILES} ${GLAD_GL})
 target_link_libraries(OpenGL ${OPENGL_LIBRARIES} glfw )
