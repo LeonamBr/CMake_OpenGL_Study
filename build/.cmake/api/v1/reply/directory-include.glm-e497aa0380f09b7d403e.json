@@ -8,7 +8,7 @@
 	"installers" : [],
 	"paths" : 
 	{
-		"build" : "include/glfw/src",
-		"source" : "include/glfw/src"
+		"build" : "include/glm",
+		"source" : "include/glfw"
 	}
 }

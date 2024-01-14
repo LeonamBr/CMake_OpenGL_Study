@@ -23,12 +23,12 @@
 					]
 				},
 				{
-					"build" : "include/glfw",
+					"build" : "include/glm",
 					"childIndexes" : 
 					[
 						2
 					],
-					"jsonFile" : "directory-include.glfw-1fe926b548ef8345976a.json",
+					"jsonFile" : "directory-include.glm-e497aa0380f09b7d403e.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.4"
@@ -38,8 +38,8 @@
 					"source" : "include/glfw"
 				},
 				{
-					"build" : "include/glfw/src",
-					"jsonFile" : "directory-include.glfw.src-59da57a01a30f5a6b342.json",
+					"build" : "include/glm/src",
+					"jsonFile" : "directory-include.glm.src-2a1a97c0576caba662d4.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.4"
@@ -92,21 +92,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "OpenGL::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-OpenGL-3be9c3e745e74775aa97.json",
+					"jsonFile" : "target-OpenGL-5bb5412bdbc7f332a5d3.json",
 					"name" : "OpenGL",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
-					"id" : "glfw::@7cf4cdf8cc575720cdf7",
-					"jsonFile" : "target-glfw-667892805b6e5db4d938.json",
+					"id" : "glfw::@2175ada9d8e4498ae340",
+					"jsonFile" : "target-glfw-7e29831b3b93657dafe2.json",
 					"name" : "glfw",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 2,
-					"id" : "update_mappings::@7cf4cdf8cc575720cdf7",
-					"jsonFile" : "target-update_mappings-0e0d8f73668e49769a0e.json",
+					"id" : "update_mappings::@2175ada9d8e4498ae340",
+					"jsonFile" : "target-update_mappings-eea97bd4930fe0de7f15.json",
 					"name" : "update_mappings",
 					"projectIndex" : 1
 				}

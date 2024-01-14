@@ -85,7 +85,7 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "glfw::@7cf4cdf8cc575720cdf7"
+			"id" : "glfw::@2175ada9d8e4498ae340"
 		}
 	],
 	"id" : "OpenGL::@6890427a1f51a3e7e1df",
@@ -109,7 +109,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "include\\glfw\\src\\libglfw3.a",
+				"fragment" : "include\\glm\\src\\libglfw3.a",
 				"role" : "libraries"
 			},
 			{

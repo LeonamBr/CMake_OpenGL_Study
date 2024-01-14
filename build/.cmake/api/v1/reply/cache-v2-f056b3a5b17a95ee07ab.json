@@ -1639,7 +1639,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/leona/OneDrive/\u00c1rea de Trabalho/CMake_OpenGL_Study/build/include/glfw"
+			"value" : "C:/Users/leona/OneDrive/\u00c1rea de Trabalho/CMake_OpenGL_Study/build/include/glm"
 		},
 		{
 			"name" : "GLFW_BUILD_DOCS",

@@ -3,7 +3,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "include/glfw/src/libglfw3.a"
+			"path" : "include/glm/src/libglfw3.a"
 		}
 	],
 	"backtrace" : 1,
@@ -136,7 +136,7 @@
 				},
 				{
 					"backtrace" : 7,
-					"path" : "C:/Users/leona/OneDrive/\u00c1rea de Trabalho/CMake_OpenGL_Study/build/include/glfw/src"
+					"path" : "C:/Users/leona/OneDrive/\u00c1rea de Trabalho/CMake_OpenGL_Study/build/include/glm/src"
 				}
 			],
 			"language" : "C",
@@ -178,12 +178,12 @@
 	{
 		"name" : "GLFW3"
 	},
-	"id" : "glfw::@7cf4cdf8cc575720cdf7",
+	"id" : "glfw::@2175ada9d8e4498ae340",
 	"name" : "glfw",
 	"nameOnDisk" : "libglfw3.a",
 	"paths" : 
 	{
-		"build" : "include/glfw/src",
+		"build" : "include/glm/src",
 		"source" : "include/glfw/src"
 	},
 	"sourceGroups" : 
